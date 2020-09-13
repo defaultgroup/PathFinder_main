@@ -107,8 +107,8 @@
 			<p class="des_script">편의시설이 충분히 갖춰져 있고, 특히 외국이 유학생들의 고충을 상시 도울 수 있는 외국인 유학생</p>
 			<p class="des_script"> 전용 사무실도 마련되어 있다.</p>
 		</div>
-		<img class="loc_map" src="C:\Users\53380\OneDrive\바탕 화면\소프트웨어 공모전\imgs\school_loc.jpg" alt ="학교 이미지">
-		<img class="arrow" src="C:\Users\53380\OneDrive\바탕 화면\소프트웨어 공모전\imgs\arrow.png" alt="화살표">
+		<img class="loc_map" src="https://github.com/defaultgroup/PathFinder_imgs/blob/master/school_loc_small.jpg?raw=true" alt ="학교 이미지">
+		<img class="arrow" src="https://github.com/defaultgroup/PathFinder_imgs/blob/master/arrow.png?raw=true" alt="화살표">
 	</div>
 	<hr>
 	<footer class="lowest">
