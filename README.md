@@ -95,7 +95,7 @@
 	</div>
 	<br><br><br>
 	<div class="img_container">
-		<img class="school_structure" src="C:\Users\53380\OneDrive\바탕 화면\소프트웨어 공모전\imgs\SoongDuk2_2.jpg" alt="학교 내부 사진">
+		<img class="school_structure" src="https://github.com/defaultgroup/PathFinder_imgs/blob/master/SoongDuk2_2.jpg?raw=true" alt="학교 내부 사진">
 		<div class="description_box">
 			<p class="des_title">숭덕경상관</p>
 			<p class="des_script">규모 : 지하 2층 / 지상 6층</p>
