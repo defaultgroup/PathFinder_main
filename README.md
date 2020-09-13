@@ -4,9 +4,6 @@
 		.header img {
 			float: left;
 		}
-		.toMain_img_name {
-			padding-top: 15px;
-		}
 		.upbutton {
 			background-color: DodgerBlue;
 			color: white;
@@ -83,8 +80,8 @@
 <body>
 	<div class = "header">
 		<a href="https://defaultgroup.github.io/PathFinder_main/">
-			<img src="https://github.com/defaultgroup/PathFinder_imgs/blob/master/title_img_small.png?raw=true" alt="길잡이 로고" width="120" height="150">
-			<img class="toMain_img_name" src="https://github.com/defaultgroup/PathFinder_imgs/blob/master/path_finder_name.png?raw=true" alt="길잡이 이름" width="200" height="120">
+			<img sytle="float: left;" src="https://github.com/defaultgroup/PathFinder_imgs/blob/master/title_img_small.png?raw=true" alt="길잡이 로고" width="120" height="150">
+			<img class="toMain_img_name" sytle="padding-top: 15px; float: left;" src="https://github.com/defaultgroup/PathFinder_imgs/blob/master/path_finder_name.png?raw=true" alt="길잡이 이름" width="200" height="120">
 		</a>
 		<button class = "upbutton" onclick="click_school_notice()">학교 공지사항</button>
 		<button class = "upbutton" onclick="click_department_notice()">학과 공지사항</button>
