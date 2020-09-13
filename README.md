@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="UTF-8">
@@ -76,7 +75,7 @@
 		}
 	</style>
 	<!-- 맨위 주소창 부분 -->
-	<link rel="shortcut icon" type="image/x-icon" href="C:\Users\53380\OneDrive\바탕 화면\소프트웨어 공모전\imgs\title_img_square.jpg">
+	<link rel="shortcut icon" type="image/x-icon" href="https://github.com/defaultgroup/PathFinder_imgs/blob/master/title_img_square.jpg?raw=true">
 	<title>길잡이</title>
 </head>
 <!-- 메인화면 이미지 저장 -->
@@ -86,9 +85,9 @@
 </script>
 <body>
 	<div class = "header">
-		<a href="file:///C:/Users/53380/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%EB%AA%A8%EC%A0%84/Url_List/Main_page.html">
-			<img src="C:\Users\53380\OneDrive\바탕 화면\소프트웨어 공모전\imgs\title_img_small.png" alt="길잡이 로고" width="120" height="150">
-			<img class="toMain_img_name" src="C:\Users\53380\OneDrive\바탕 화면\소프트웨어 공모전\imgs\path_finder_name.png" alt="길잡이 이름" width="200" height="120">
+		<a href="https://defaultgroup.github.io/PathFinder_main/">
+			<img src="https://github.com/defaultgroup/PathFinder_imgs/blob/master/title_img_small.png?raw=true" alt="길잡이 로고" width="120" height="150">
+			<img class="toMain_img_name" src="https://github.com/defaultgroup/PathFinder_imgs/blob/master/path_finder_name.png?raw=true" alt="길잡이 이름" width="200" height="120">
 		</a>
 		<button class = "upbutton" onclick="click_school_notice()">학교 공지사항</button>
 		<button class = "upbutton" onclick="click_department_notice()">학과 공지사항</button>
