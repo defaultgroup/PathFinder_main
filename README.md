@@ -21,13 +21,11 @@
 			margin-right: 10px;
 			cursor: pointer;
 		}
-
 		.upbutton:hover {
 			background-color: white;
 			color: black;
 			border: 2px solid DodgerBlue;
 		}
-
 		.footer_row {
 			float: left;
 			margin-left: 100px;
@@ -36,7 +34,6 @@
 		.footer_inside {
 				list-style:none;
 		}
-
 		.school_structure {
 			margin-right: 0;
 			margin-left: auto;
@@ -87,7 +84,6 @@
 	var img_count = 0;
 	var imgArray = new Array('baerd_hall', 'intel_science', 'HyeongNam')
 </script>
-
 <body>
 	<div class = "header">
 		<a href="file:///C:/Users/53380/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%EB%AA%A8%EC%A0%84/Url_List/Main_page.html">
@@ -102,7 +98,6 @@
 		<button class = "upbutton" onclick="click_campus_map()">캠퍼스 맵</button>
 	</div>
 	<br><br><br>
-
 	<div class="img_container">
 		<img class="school_structure" src="C:\Users\53380\OneDrive\바탕 화면\소프트웨어 공모전\imgs\SoongDuk2_2.jpg" alt="학교 내부 사진">
 		<div class="description_box">
@@ -119,7 +114,6 @@
 		<img class="loc_map" src="C:\Users\53380\OneDrive\바탕 화면\소프트웨어 공모전\imgs\school_loc.jpg" alt ="학교 이미지">
 		<img class="arrow" src="C:\Users\53380\OneDrive\바탕 화면\소프트웨어 공모전\imgs\arrow.png" alt="화살표">
 	</div>
-
 	<hr>
 	<footer class="lowest">
 	  <div class="row">
@@ -139,7 +133,6 @@
 	      </ul>
 	  </div>
 	</footer>
-
 	  <!-- click fuction은 맨위에서 선택했을 경우 저장 -->
 	  <script type="text/javascript">
 	  	function click_school_notice(){
